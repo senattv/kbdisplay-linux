@@ -1,0 +1,192 @@
+{
+    "width": 806,
+    "height": 237,
+    "unpressed": "layouts/buttons/default_unpressed.png",
+    "pressed": "layouts/buttons/default_pressed.png",
+    "background": "#999900",
+    "buttons": [
+        {
+            "keycode": 16,
+            "x": 100,
+            "y": 0,
+            "width": 50,
+            "height": 50,
+            "text": "Q"
+        },
+        {
+            "keycode": 17,
+            "x": 150,
+            "y": 0,
+            "width": 50,
+            "height": 50,
+            "text": "W"
+        },
+        {
+            "keycode": 18,
+            "x": 200,
+            "y": 0,
+            "width": 50,
+            "height": 50,
+            "text": "E"
+        },
+        {
+            "keycode": 19,
+            "x": 250,
+            "y": 0,
+            "width": 50,
+            "height": 50,
+            "text": "R"
+        },
+        {
+            "keycode": 22,
+            "x": 300,
+            "y": 0,
+            "width": 50,
+            "height": 50,
+            "text": "U"
+        },
+        {
+            "keycode": 23,
+            "x": 350,
+            "y": 0,
+            "width": 50,
+            "height": 50,
+            "text": "I"
+        },
+        {
+            "keycode": 24,
+            "x": 400,
+            "y": 0,
+            "width": 50,
+            "height": 50,
+            "text": "O"
+        },
+        {
+            "keycode": 41,
+            "x": 450,
+            "y": 0,
+            "width": 50,
+            "height": 50,
+            "text": "`"
+        },
+        {
+            "keycode": 30,
+            "x": 100,
+            "y": 50,
+            "width": 50,
+            "height": 50,
+            "text": "A"
+        },
+        {
+            "keycode": 31,
+            "x": 150,
+            "y": 50,
+            "width": 50,
+            "height": 50,
+            "text": "S"
+        },
+        {
+            "keycode": 32,
+            "x": 200,
+            "y": 50,
+            "width": 50,
+            "height": 50,
+            "text": "D"
+        },
+        {
+            "keycode": 33,
+            "x": 250,
+            "y": 50,
+            "width": 50,
+            "height": 50,
+            "text": "F"
+        },
+        {
+            "keycode": 36,
+            "x": 300,
+            "y": 50,
+            "width": 50,
+            "height": 50,
+            "text": "J"
+        },
+        {
+            "keycode": 37,
+            "x": 350,
+            "y": 50,
+            "width": 50,
+            "height": 50,
+            "text": "K"
+        },
+        {
+            "keycode": 38,
+            "x": 400,
+            "y": 50,
+            "width": 50,
+            "height": 50,
+            "text": "L"
+        },
+        {
+            "keycode": 15,
+            "x": 0,
+            "y": 0,
+            "width": 100,
+            "height": 50,
+            "text": "↔",
+            "unpressed": "layouts/buttons/tab_unpressed.png",
+            "pressed": "layouts/buttons/tab_pressed.png"
+        },
+
+        {
+            "keycode": 42,
+            "x": 0,
+            "y": 50,
+            "width": 100,
+            "height": 50,
+            "text": "⇑",
+            "unpressed": "layouts/buttons/tab_unpressed.png",
+            "pressed": "layouts/buttons/tab_pressed.png"
+        },
+        {
+            "keycode": 57,
+            "x": 100,
+            "y": 100,
+            "width": 450,
+            "height": 50,
+            "text": "",
+            "unpressed": "layouts/buttons/space_unpressed.png",
+            "pressed": "layouts/buttons/space_pressed.png"
+        },
+        {
+            "keycode": 105,
+            "x": 450,
+            "y": 50,
+            "width": 50,
+            "height": 50,
+            "text": "◀"
+        },
+        {
+            "keycode": 103,
+            "x": 500,
+            "y": 0,
+            "width": 50,
+            "height": 50,
+            "text": "▲"
+        },
+        {
+            "keycode": 106,
+            "x": 550,
+            "y": 50,
+            "width": 50,
+            "height": 50,
+            "text": "▶"
+        },
+        {
+            "keycode": 108,
+            "x": 500,
+            "y": 50,
+            "width": 50,
+            "height": 50,
+            "text": "▼"
+        }
+    ]
+}
